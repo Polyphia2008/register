@@ -1,10 +1,18 @@
-{
-  "domain": "mc",
-  "subdomain": "mc.creepers.sbs",
-  "owner": {
-    "email": "batcandoi1901a@gmail.com"
-  },
-  "record": {
-    "A": ["160.191.244.151"]
-  }
+{                                           
+    "description": "A personal Documentation website",
+    "domain": "creepers.sbs",
+    "subdomain": "mc",
+
+"country code": "=84", 
+    
+    "owner": {
+        "github user": "https://github.com/Polyphia2008", 
+        "email": "batcandoi1901a@gmail.com" 
+    },
+                                                                                                           
+    "record": {
+          
+        "CNAME": "160.191.244.151",  
+           },
+ "proxy": false
 }
