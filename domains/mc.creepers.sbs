@@ -1,0 +1,10 @@
+{
+  "domain": "mc",
+  "subdomain": "mc.creepers.sbs",
+  "owner": {
+    "email": "batcandoi1901a@gmail.com"
+  },
+  "record": {
+    "A": ["160.191.244.151"]
+  }
+}
